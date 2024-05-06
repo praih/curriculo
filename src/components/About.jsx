@@ -45,7 +45,7 @@ const About = () => {
 
       <motion.p
     variants={fadeIn("", "", 0.1, 1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-     Sou um programador iniciante apaixonado por tecnologia e sempre buscando aprender novas habilidades. Estou me formando em T.I e tenho experiência com (HTML/CSS, JavaScript, Python, C#, Flutter, PhP, ReactJS).
+     Sou um Desenvolvedor e Tecnico de T.I apaixonado por tecnologia e sempre buscando aprender novas habilidades. Estou me formando em Sistemas da Informação e tenho experiência com (HTML/CSS, JavaScript, Python, C#, Flutter, PhP, ReactJS).
      <br></br>
 <br></br>
 Possuo habilidades como resolução de problemas, pensamento lógico e capacidade de aprendizado rápido, habilidades excepcionais de comunicação verbal e escrita, demonstradas por minha capacidade de apresentar ideias de forma clara e eficaz, experiência comprovada em colaboração eficaz em equipes multidisciplinares para alcançar metas comuns eficácia na gestão do tempo, com a capacidade de priorizar tarefas e cumprir prazos rigorosos.

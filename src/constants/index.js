@@ -176,7 +176,7 @@ import {
       name: "Isaque Castriani",
       designation: "Dev",
       company: "Norteam",
-      image: "https://media-gru2-1.cdn.whatsapp.net/v/t61.24694-24/408139403_875662507271686_2001450651825848055_n.jpg?ccb=11-4&oh=01_AdSl8eAQ3isrCiRG77sPZmltVEABs42EMipY6lSYfGNwZw&oe=658EB2C7&_nc_sid=e6ed6c&_nc_cat=107",
+      image: "https://scontent.cdninstagram.com/v/t51.29350-15/348689557_125176497244050_3988727516460291011_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE0NDAuc2RyLmYyOTM1MCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_ohc=7EV02mUME9YQ7kNvgEuNp_I&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzExMDc1NTM0ODI2OTQ0MjU1OQ%3D%3D.2-ccb7-5&oh=00_AfDhlHnJDqJeu-l7snrDQVWU1qplBQnVRIvheqMGUCpXFw&oe=663ED7B4&_nc_sid=10d13b",
     },
     {
       testimonial:
